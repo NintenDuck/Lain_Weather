@@ -35,6 +35,7 @@ public class Main extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 
 		setContentPane(contentPane);
+		ImageInstancer image = new ImageInstancer();
 	}
 
 }
